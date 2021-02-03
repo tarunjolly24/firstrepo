@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 added
 master branch
 sdfjsdhjfghjsd
 dev branch
 dfgdj
 
+=======
+lets see
+>>>>>>> Stashed changes
